@@ -1,2 +1,2 @@
-# dart-prc-projects
+# dart-practice-projects
 Simple Dart Language practice projects
